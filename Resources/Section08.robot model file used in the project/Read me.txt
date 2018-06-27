@@ -1,0 +1,4 @@
+Credits:
+This file is downloaded from 
+https://github.com/SebLague/Blender-to-Unity-Character-Creation/tree/master/Blend%20files (the last one)
+The file is part of this Character Creation tutorial: https://www.youtube.com/playlist?list=PLFt_AvWsXl0djuNM22htmz3BUtHHtOh7v
