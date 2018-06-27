@@ -1,4 +1,4 @@
-Click the Multipj.exe file to run the result of the project.
+Download the whole folder then click the `Multipj.exe` file to run the result of the project.
  - Use arrow keys to move the robot model. 
  - Or click on the floor to set a target position.
  - Hold shift key to make the robot run.
